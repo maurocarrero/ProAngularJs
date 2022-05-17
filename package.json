@@ -4,6 +4,6 @@
   "version": "0.0.0",
   "repository": "git@github.com:maurocarrero/ProAngularJs.git",
   "dependencies": {
-    "connect": "~3.1.0"
+    "connect": "~3.6.2"
   }
 }
